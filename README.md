@@ -2,6 +2,7 @@
 ...and welcome to my corner of the internet.
 
 I am an AI Engineer specializing in Generative AI and Autonomous Systems. 
+
 At the moment, I’m helping build E.ON’s Generative AI platform and supporting its adoption across multiple business units.
 
 I’m always open to connecting, so feel free to reach out.
